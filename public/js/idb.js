@@ -10,7 +10,7 @@ request.onsuccess = function(e) {
     db = e.target.result;
 
     if (navigator.onLine) {
-        //uploadBudgetItem();
+        uploadBudgetItem();
     }
 };
 
