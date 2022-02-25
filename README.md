@@ -16,7 +16,10 @@
   
 ## Usage
   To use this app, all you need to do is go into the file with Git Bash and run 'npm start' to start the server, then you can test the functionality locally.
-If you want to experience the deployed app, it is deployed at https://dry-gorge-57166.herokuapp.com/ . After you open it up for the first time, if you lose connection, it can still be viewed using the cached files and you can still add or subtract funds that will be displayed locally until they can be fired off to the database when connection is restored.
+If you want to experience the deployed app, it is deployed at https://dry-gorge-57166.herokuapp.com/ . After you open it up for the first time, if you lose connection, it can still be viewed using the cached files and you can still add or subtract funds that will be displayed locally until they can be fired off to the database when connection is restored. A screenshot of the deployed app can be seen here:
+
+![saving-sense](https://user-images.githubusercontent.com/90655310/155815556-fbaeb1c2-37ad-43fa-87a4-3553051fe325.png)
+
   
 ## Contributing
   Just one rule: Don't be evil.
